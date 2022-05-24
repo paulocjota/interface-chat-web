@@ -18,7 +18,7 @@
 Projeto Clone da interface de Chat Web em HTML e CSS
 
 ## Preview
-Acesse clicando <a href="#">aqui</a>!
+Acesse clicando <a href="https://interface-chat-web.vercel.app/">aqui</a>!
 
 ## Tecnologias
 <a href="https://tailwindcss.com/">Tailwind CSS</a>
